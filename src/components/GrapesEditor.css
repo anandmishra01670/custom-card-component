@@ -1,0 +1,19 @@
+#export-button-container{
+    padding: 0.625rem; 
+}
+#export-button-container .export-button {
+    border: 1px solid black;
+    padding: 0.313rem;
+    border-radius: 0.5rem;
+    font-size: 14px;
+    cursor: pointer;
+}
+#parent-container{
+    display: flex;
+}
+#left-panel {
+    width: 15.625rem;
+}
+#right-panel {
+    flex: 1;
+}
